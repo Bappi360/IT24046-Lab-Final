@@ -10,7 +10,7 @@ public class DivisionProgram {
 
             System.out.print("Enter second integer: ");
             int b = sc.nextInt();
-
+            //division
             int result = a / b;
             System.out.println("Result: " + result);
         } catch (ArithmeticException e) {
