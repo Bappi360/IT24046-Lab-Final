@@ -8,7 +8,7 @@ class Book {
         this.title = title;
         this.price = price;
     }
-
+   // calculate
     public double getPrice() {
         return price;
     }
